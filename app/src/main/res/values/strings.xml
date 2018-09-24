@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NFC Identity</string>
+    <string name="main_activity_create_info">If you want to create NFC Identity card containing your personal details press the button below.</string>
+    <string name="main_activity_create_button">Create identity</string>
+    <string name="main_activity_scan_info">Scan existing NFC Identity card to see the Personal details. Just apply it to the back of the phone!</string>
+    <string name="main_activity_create_header">Creating identity</string>
+    <string name="main_activity_scan_header">Scanning identity</string>
+    <string name="create_identity_personal_data_header">Personal data</string>
+    <string name="create_identity_first_name_hint">First name</string>
+    <string name="create_identity_last_name_hint">Last name</string>
+    <string name="create_identity_maiden_name_hint">Maiden name</string>
+</resources>
